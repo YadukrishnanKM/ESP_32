@@ -19,17 +19,21 @@
 _And paste one the folling link_
 
 > Stable release link: 
->> `https://espressif.github.io/arduino-esp32/package_esp32_index.json`
+>> ```https://espressif.github.io/arduino-esp32/package_esp32_index.json```
 
 >Development release link:
->> `https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json`
+>> ```
+>> https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
+>> ```
 
 
 
 ## __ESP 32 board setup__
 
 > Drivers for __CP210x__
->> `https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads`
+>>```
+>> https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
+>>```
 
 ```
 The CP210x USB to UART Bridge Virtual COM Port (VCP) drivers are required for device operation as a Virtual COM Port to facilitate host communication with CP210x products. These devices can also interface to a host using the direct access driver.
@@ -38,7 +42,9 @@ The CP210x USB to UART Bridge Virtual COM Port (VCP) drivers are required for de
 ## __IRL-540 MoSFET__
 
 Documentation :
-`https://www.vishay.com/docs/91300/irl540.pdf`
+```
+https://www.vishay.com/docs/91300/irl540.pdf
+```
 
 ![alt text](images/image-6.png)
 
@@ -49,4 +55,5 @@ __Typcial output characteristics__
 ## ESP_32 __`Arduino API`__ documentation 
 ![alt text](images/image-9.png)
 ```
-https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html```
+https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html
+```
