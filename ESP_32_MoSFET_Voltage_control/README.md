@@ -3,18 +3,18 @@
 ## Arduino 
 > Use the following link to download `Arduino` [__Click here to download ARDUINO__](https://www.arduino.cc/en/software)
 
-![alt text](images\image.png)
+![alt text](images/image.png)
 
 ## ESP_32 Arduino preference json
 
 #### click on file
-![alt text](images\image-3.png)
+![alt text](images/image-3.png)
 
 ### click on preferences
-![alt text](images\image-4.png)
+![alt text](images/image-4.png)
 
 ### click on Additional Boards Manager 
-![alt text](images\image-5.png)
+![alt text](images/image-5.png)
 
 _And paste one the folling link_
 
@@ -40,13 +40,13 @@ The CP210x USB to UART Bridge Virtual COM Port (VCP) drivers are required for de
 Documentation :
 `https://www.vishay.com/docs/91300/irl540.pdf`
 
-![alt text](images\image-6.png)
+![alt text](images/image-6.png)
 
 __Typcial output characteristics__
-![alt text](images\image-7.png)
+![alt text](images/image-7.png)
 
 
 ## ESP_32 __`Arduino API`__ documentation 
-![alt text](images\image-9.png)
+![alt text](images/image-9.png)
 ```
 https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html```
