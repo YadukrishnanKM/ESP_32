@@ -19,7 +19,9 @@
 _And paste one the folling link_
 
 > Stable release link: 
->> ```https://espressif.github.io/arduino-esp32/package_esp32_index.json```
+>> ```
+>> https://espressif.github.io/arduino-esp32/package_esp32_index.json
+>> ```
 
 >Development release link:
 >> ```
