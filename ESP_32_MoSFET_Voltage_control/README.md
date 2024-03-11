@@ -76,6 +76,10 @@ https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.p
 
 [`Example_Video`](https://drive.google.com/file/d/1DWsh9tqDact2X_LM0TJK77jVvcr0jnhE/view?usp=drivesdk)
 
+## Amplifier Circuit
+![image](https://github.com/YadukrishnanKM/ESP_32/assets/140938944/27587d99-6971-4aac-a49c-7c44bde2a074)
+
+
 
 ### Created by [**K M Yadukrishnan**](https://www.instagram.com/kmy_126_?igsh=ajBuazJlNTdwYmtt)
 
